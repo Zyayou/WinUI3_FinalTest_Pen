@@ -1,27 +1,11 @@
-========================================================================
-    Andong_Nation_University Project Overview
-========================================================================
+### 프로그램 설명
+펜 만들기(종합)
+1. 스크롤바 굵기 조정
+2. 컬러피크로 색상 변경
+3. 파일 저장, 읽기
+4. 컬러피크 숨기기, 나타나기
+5. 전체 지우기
+6. 종료
 
-This project demonstrates how to get started writing WinUI3 apps directly
-with standard C++, using the Windows App SDK and C++/WinRT packages and
-XAML compiler support to generate implementation headers from interface
-(IDL) files. These headers can then be used to implement the local
-Windows Runtime classes referenced in the app's XAML pages.
-
-Steps:
-1. Create an interface (IDL) file to define any local Windows Runtime
-    classes referenced in the app's XAML pages.
-2. Build the project once to generate implementation templates under
-    the "Generated Files" folder, as well as skeleton class definitions
-    under "Generated Files\sources".
-3. Use the skeleton class definitions for reference to implement your
-    Windows Runtime classes.
-
-========================================================================
-Learn more about Windows App SDK here:
-https://docs.microsoft.com/windows/apps/windows-app-sdk/
-Learn more about WinUI3 here:
-https://docs.microsoft.com/windows/apps/winui/winui3/
-Learn more about C++/WinRT here:
-http://aka.ms/cppwinrt/
-========================================================================
+### 영상
+https://youtu.be/isaVBu5kpQ0
